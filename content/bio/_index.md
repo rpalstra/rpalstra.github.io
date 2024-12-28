@@ -10,7 +10,7 @@ ao_post_optimize:
 
 ---
 
-![Ik zei de gek.](../images/Riemer_Crop.jpg)
+![Ik zei de gek.](Riemer_Crop.jpg)
 
 Riemer. 43. Geboren in Hoorn, woont in Rotterdam, maar kon vroeger ook gevonden worden in Enkhuizen, Hellevoetsluis, Amsterdam, Hilversum of Zaandam. Ja, dat is een omweg ja. 
 
