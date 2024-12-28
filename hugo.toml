@@ -1,0 +1,56 @@
+baseURL = "https://rpalstra.github.io/"
+languageCode = "en-us"
+title = "Riemer Palstra"
+theme = "typo"
+copyright = "&copy; 2000 - 2025 Riemer Palstra"
+
+[params]
+
+  description = "Senior DevOps Engineer | Consultant | Trainer | Red Hat Certified OpenShift Architect | Rotterdam"
+
+  theme = 'auto'
+  colorPalette = 'default'
+  hideHeader = false
+
+  homeIntroTitle = 'Welcome!'
+  homeIntroContent = """
+  I'm a Senior DevOps Engineer, Consulting Architect and Trainer, working for HCS company in The Netherlands. Working with Open Source since 1999, I have been focusing mainly on Red Hat OpenShift and Ansible for the last few years.
+  """
+
+  # Social icons
+  [[params.social]]
+  name = "bluesky"
+  url = "https://bsky.app/profile/rpalstra.bsky.social"
+
+  [[params.social]]
+  name = "threads"
+  url = "https://www.threads.net/@rpalstra"
+
+  [[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/rpalstra"
+
+  [[params.social]]
+  name = "facebook"
+  url = "https://www.facebook.com/rpalstra"
+
+  [[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/rpalstra/"
+
+  [[params.social]]
+  name = "github"
+  url = "https://github.com/rpalstra"
+
+  # Main menu pages
+  [[params.menu]]
+  name = "home"
+  url = "/"
+
+  [[params.menu]]
+  name = "posts"
+  url = "/posts"
+
+  [[params.menu]]
+  name = "about"
+  url = "/about"
