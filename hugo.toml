@@ -17,6 +17,11 @@ copyright = "&copy; 2000 - 2025 Riemer Palstra"
   I'm a Senior DevOps Engineer, Consulting Architect and Trainer, working for HCS company in The Netherlands. Working with Open Source since 1999, I have been focusing mainly on Red Hat OpenShift and Ansible for the last few years.
   """
 
+  footerContent = "&copy; 2000 - 2025 Riemer Palstra"
+
+  homeCollectionTitle = 'Posts'
+  homeCollection = 'posts'
+
   # Social icons
   [[params.social]]
   name = "bluesky"
