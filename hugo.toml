@@ -65,5 +65,5 @@ copyright = "&copy; 2000 - 2025 Riemer Palstra"
 [imaging]
 
   quality = 85
-  hint = picture
-  resampleFilter = Lanczos
+  hint = 'picture'
+  resampleFilter = 'Lanczos'
