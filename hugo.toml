@@ -21,6 +21,8 @@ copyright = "&copy; 2000 - 2025 Riemer Palstra"
 
   homeCollectionTitle = 'Posts'
   homeCollection = 'posts'
+  paginationSize = 20
+  listSummaries = true
 
   # Social icons
   [[params.social]]
@@ -59,3 +61,9 @@ copyright = "&copy; 2000 - 2025 Riemer Palstra"
   [[params.menu]]
   name = "about"
   url = "/about"
+
+[imaging]
+
+  quality = 85
+  hint = picture
+  resampleFilter = Lanczos

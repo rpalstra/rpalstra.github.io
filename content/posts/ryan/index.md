@@ -4,7 +4,7 @@ draft = false
 title = 'Ryan Palstra'
 +++
 
-{< img "ryan_sign.jpg" "Ryan Palstra" >}}
+{{< img "ryan_sign.jpg" "Ryan Palstra" >}}
 
 Ryan Palstra was born August 13th, 2025 in Rotterdam, The Netherlands. After a
 few days at a Birth Center, he and his mother are now resting at home. He is
