@@ -17,7 +17,7 @@ copyright = "&copy; 2000 - 2026 Riemer Palstra"
   I'm a father of one, a hobby guitar player and also a Senior OpenShift Architect for HCS company in The Netherlands. Working with Open Source since 1999, I have been focusing mainly on Red Hat OpenShift and Ansible for the last few years.
   """
 
-  footerContent = "&copy; 2000 - 2025 Riemer Palstra"
+  footerContent = "&copy; 2000 - 2026 Riemer Palstra"
 
   homeCollectionTitle = 'Posts'
   homeCollection = 'posts'
