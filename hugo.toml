@@ -2,7 +2,7 @@ baseURL = "https://rpalstra.github.io/"
 languageCode = "en-us"
 title = "Riemer Palstra"
 theme = "typo"
-copyright = "&copy; 2000 - 2025 Riemer Palstra"
+copyright = "&copy; 2000 - 2026 Riemer Palstra"
 
 [params]
 
