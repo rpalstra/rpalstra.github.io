@@ -12,7 +12,7 @@ ao_post_optimize:
 
 ![Ik zei de gek.](Riemer_Crop.jpg)
 
-Riemer. 43. Geboren in Hoorn, woont in Rotterdam, maar kon vroeger ook gevonden worden in Enkhuizen, Hellevoetsluis, Amsterdam, Hilversum of Zaandam. Ja, dat is een omweg ja. 
+Riemer. 45. Geboren in Hoorn, woont in Rotterdam, maar kon vroeger ook gevonden worden in Enkhuizen, Hellevoetsluis, Amsterdam, Hilversum of Zaandam. Ja, dat is een omweg ja. 
 
 In het dagelijks leven ben ik Senior DevOps Engineer en OpenShift Consultant bij HCS company (Red Hat Certified OpenShift Architect, Red Hat Certified Architect in Infrastructure, Red Hat Partner Solutions Architect en Red Hat Accelerator) en bouw ik oplossingen op basis van Red Hat, Linux en Open Source, zoals Automation met Ansible en Container Platforms met OpenShift.
 

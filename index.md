@@ -13,7 +13,7 @@ ao_post_optimize:
   <figure class="alignright size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" width="292" height="300" src="https://i0.wp.com/palstra.com/wp-content/uploads/2024/10/DSC08914-crop-800.jpg?resize=292%2C300&#038;ssl=1" alt="" class="wp-image-2533" srcset="https://i0.wp.com/palstra.com/wp-content/uploads/2024/10/DSC08914-crop-800.jpg?resize=292%2C300&ssl=1 292w, https://i0.wp.com/palstra.com/wp-content/uploads/2024/10/DSC08914-crop-800.jpg?w=800&ssl=1 800w" sizes="auto, (max-width: 292px) 100vw, 292px" /><figcaption class="wp-element-caption">Ik zei de gek.</figcaption></figure>
 </div>
 
-Riemer. 43. Geboren in Hoorn, woont in Rotterdam, maar kon vroeger ook gevonden worden in Enkhuizen, Hellevoetsluis, Amsterdam, Hilversum of Zaandam. Ja, dat is een omweg ja. 
+Riemer. 45. Geboren in Hoorn, woont in Rotterdam, maar kon vroeger ook gevonden worden in Enkhuizen, Hellevoetsluis, Amsterdam, Hilversum of Zaandam. Ja, dat is een omweg ja. 
 
 In het dagelijks leven ben ik Senior DevOps Engineer en OpenShift Consultant bij HCS company (Red Hat Certified OpenShift Architect, Red Hat Certified Architect in Infrastructure, Red Hat Partner Solutions Architect en Red Hat Accelerator) en bouw ik oplossingen op basis van Red Hat, Linux en Open Source, zoals Automation met Ansible en Container Platforms met OpenShift.
 
