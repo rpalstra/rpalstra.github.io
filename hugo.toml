@@ -6,7 +6,7 @@ copyright = "&copy; 2000 - 2026 Riemer Palstra"
 
 [params]
 
-  description = "Senior OpenShift Architect | Rotterdam"
+  description = "Riemer Palstra | Senior OpenShift Architect | Rotterdam"
 
   theme = 'auto'
   colorPalette = 'default'
@@ -48,6 +48,10 @@ copyright = "&copy; 2000 - 2026 Riemer Palstra"
   [[params.social]]
   name = "github"
   url = "https://github.com/rpalstra"
+
+  [[params.social]]
+  name = "digg"
+  url = "https://digg.com/@rpalstra"
 
   # Main menu pages
   [[params.menu]]
