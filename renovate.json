@@ -24,7 +24,7 @@
       "depNameTemplate": "gohugoio/hugo",
       "datasourceTemplate": "github-releases"
     }
-  ]
+  ],
   "packageRules": [
     {
       "matchPackageNames": ["gohugoio/hugo"],
